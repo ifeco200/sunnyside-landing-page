@@ -47,4 +47,8 @@ Design inspiration and project challenge from "Frontend Mentor" (https://www.fro
 
 ## Website Preview
 
-![Sunnyside Agency Landing Page](Screenshot_20261117-232046.png)
+<img src="Screenshot_20261117-232046.png" width="300" alt="Website preview 1">
+
+<img src="Screenshot_20261117-232154.png" width="300" alt="Website preview 2">
+
+<img src="Screenshot_20261117-232444.png" width="300" alt="Website preview 3">
