@@ -43,3 +43,8 @@ Created by ifeco200 as part of my frontend development journey.
 Acknowledgements
 
 Design inspiration and project challenge from "Frontend Mentor" (https://www.frontendmentor.io/).
+
+
+## Website Preview
+
+![Sunnyside Agency Landing Page](Screenshot_20261117-232046.png)
