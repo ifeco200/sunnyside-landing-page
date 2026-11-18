@@ -49,5 +49,5 @@ Design inspiration and project challenge from "Frontend Mentor" (https://www.fro
 
 <img  src="ifeco200.github.io_sunnyside-landing-page_.png" width="300" alt="Website preview 1">
 
-<img  src="ifeco200.github.io_sunnyside-landing-page_.png" width="300" alt="Website preview 2">
+<img  src="ifeco200.github.io_sunnyside-landing-page_(iPhone 16 Pro Max).png" width="300" alt="Website preview 2">
 
